@@ -124,10 +124,6 @@ timeline
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GNATAS&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=24c6dc&line=302b63&point=ffffff&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GNATAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
