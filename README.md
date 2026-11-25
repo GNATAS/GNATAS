@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://paphawit.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24c6dc?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://www.linkedin.com/in/paphawit-khamkhiao-779a14327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:paphawit145@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="mailto:paphawit.kh@gmail.com"><img src="https://img.shields.io/badge/Email-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 ## 👋 Hi, I'm Paphawit
