@@ -23,10 +23,7 @@ CS student at **KMITL** who likes the whole path of an AI model: cleaning the da
 
 <table align="center">
   <tr>
-    <td align="center" width="220">🏆<br/><b>AI Developer Prize</b><br/><sub>Super AI Engineer SS5 (AIAT)</sub></td>
-    <td align="center" width="220"><b>0.843</b><br/>macro-F1<br/><sub>9-class accent classification</sub></td>
-    <td align="center" width="220"><b>~99%</b><br/>accuracy<br/><sub>with only 2 sensor features</sub></td>
-  </tr>
+    <td align="center" width="220">🏆<br/><b>AI Developer Prize</b><br/><sub>Super AI Engineer SS5 (AIAT)</sub></td>  </tr>
 </table>
 
 ## 🚀 Featured Projects
